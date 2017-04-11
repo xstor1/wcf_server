@@ -32,7 +32,7 @@ namespace WcfServiceLibrary1
 
         public Task gettask(int iddemon)
         {
-            return new Task();
+            return  Task();
         }
     }
 }
