@@ -14,7 +14,7 @@ namespace WcfServiceLibrary1
         [OperationContract]
         string GetData(string value);
         [OperationContract]
-        Task gettask(int iddemon);
+        Task gettask(Task k);
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);

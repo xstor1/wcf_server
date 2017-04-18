@@ -8,6 +8,6 @@ namespace WcfServiceLibrary1
 {
     public class Task
     {
-
+        public string value { get; set; }
          }
 }

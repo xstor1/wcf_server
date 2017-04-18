@@ -15,6 +15,14 @@ namespace WcfServiceLibrary1
             return string.Format("You entered: {0}", value);
         }
 
+        public Task gettask(Task k)
+        {
+            Task t =  new Task();
+            t.value = k.value;
+        
+            return  (t);
+        }
+
         public CompositeType GetDataUsingDataContract(CompositeType composite)
         {
             if (composite == null)
@@ -30,9 +38,6 @@ namespace WcfServiceLibrary1
 
 
 
-        public Task gettask(int iddemon)
-        {
-            return  Task();
-        }
+     
     }
 }
