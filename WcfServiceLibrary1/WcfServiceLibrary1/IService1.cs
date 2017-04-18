@@ -44,4 +44,10 @@ namespace WcfServiceLibrary1
             set { stringValue = value; }
         }
     }
+    [DataContract]
+    public class Task
+    {
+        [DataMember]
+        public string value { get; set; }
+    }
 }

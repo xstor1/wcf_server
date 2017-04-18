@@ -10,3 +10,9 @@ X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcfServiceLibrary1\WcfServiceLi
 X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
 X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
 X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\storvojtech\Source\Repos\wcf_server\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\storvojtech\Source\Repos\wcf_server\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\storvojtech\Source\Repos\wcf_server\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\storvojtech\Source\Repos\wcf_server\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\storvojtech\Source\Repos\wcf_server\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\storvojtech\Source\Repos\wcf_server\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
